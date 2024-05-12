@@ -3,7 +3,7 @@
 title: Dingyi Cui
 
 # Name pronunciation (optional)
-name_pronunciation: 崔丁一
+name_pronunciation: Dingyi Cui
 
 # Full name (for SEO)
 first_name: Dingyi
