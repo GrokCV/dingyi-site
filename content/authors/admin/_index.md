@@ -3,11 +3,11 @@
 title: Dingyi Cui
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 崔丁一
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dingyi
+last_name: Cui
 
 # Status emoji
 status:
