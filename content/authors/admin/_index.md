@@ -86,7 +86,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link:'mailto:dingy.cui@gmail.com'
+    link: 'mailto:dingy.cui@gmail.com'
     # link: '/#contact'
   - icon: twitter
     icon_pack: fab
