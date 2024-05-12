@@ -105,7 +105,7 @@ social:
     link: https://github.com/DingyiCui
   - icon: weixin
     icon_pack: fab
-    link: https://raw.githubusercontent.com/DingyiCui/imgbed/wechat picture/wechat.jpg
+    link: https://github.com/DingyiCui/imgbed/blob/96581f1b9abc869dbc6cdb387025db99c7b8cca2/wechat%20picture/wechat.jpg
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564
