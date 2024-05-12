@@ -22,7 +22,7 @@ role: Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Henan University of Technology
-    url: https://www.haut.edu.cn/
+    url: [https://www.haut.edu.cn/]
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -98,7 +98,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/DingyiCui
+    link: [https://github.com/DingyiCui]
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
