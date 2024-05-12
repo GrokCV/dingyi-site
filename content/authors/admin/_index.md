@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yimian Dai
+title: Dingyi Cui
 
 # Name pronunciation (optional)
 # name_pronunciation: Yimian Dai
 
 # Full name (for SEO)
-first_name: Yimian
-last_name: Dai
+first_name: Dingyi
+last_name: Cui
 
 # Status emoji
 status:
@@ -17,34 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University of Science and Technology (NJUST)
-    url: https://english.njust.edu.cn/
+  - name: Henan University of Technology
+    url: https://www.haut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image restoration, object detection, and vision-language models.
+bio: My research interests include image restoration, object detection
 
 # Interests to show in About widget
 interests:
   - Image Restoration
   - Object Detection
-  - Vision-Language Models
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Signal Processing
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: 2021
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Electrical Engineering
-      institution: Nanjing University of Aeronautics and Astronautics
-      year: 2013
+    - course: BSc in Electronic Information Engineering
+      institution: Henan University of Technology
+      year: 2026
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -93,7 +89,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yimian.dai@gmail.com'
+    link: 'mailto:dingy.cui@gmail.com'
     # link: '/#contact'
   - icon: twitter
     icon_pack: fab
@@ -106,10 +102,10 @@ social:
     link: https://scholar.google.com/citations?user=y5Ov6VAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/GrokCV
+    link: https://github.com/DingyiCui
   - icon: weixin
     icon_pack: fab
-    link: https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG
+    link: https://raw.githubusercontent.com/DingyiCui/imgbed/wechat picture/wechat.jpg
   - icon: youtube
     icon_pack: fab
     link: https://space.bilibili.com/833564
@@ -133,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Yimian Dai (戴一冕) is currently a Postdoctoral Fellow at the PCA Lab, under the guidance of [Prof. Jian Yang (杨健)](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN) from NJUST and the vice-advisement of [Prof. Xiang Li (李翔)](https://scholar.google.com/citations?user=oamjJdYAAAAJ) from Nankai University. He also collaborates closely with [Prof. Yan Yang (杨燕)](https://scholar.google.com/citations?user=cUUWL2wAAAAJ) from Xi'an Jiaotong University. He heads the GrokCV subgroup, which specializes in the development of algorithms for remote sensing object detection, climatic monitoring, and computational imaging, aiming to address real-world challenges in these fields.
+Dingyi Cui (崔丁一) 
 {style="text-align: justify;"}
