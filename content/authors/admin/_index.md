@@ -129,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Dingyi Cui (崔丁一) 
+Dingyi Cui（崔丁一） is currently an undergraduate student majoring in Electronic Information Engineering at Henan University of Technology (HAUT), China. His research interests include image denoising, image enhancement, and object detection.
 {style="text-align: justify;"}
